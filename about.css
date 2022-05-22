@@ -1,0 +1,19 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: 1572A1;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: 1572A1;
+    text-decoration-color: antiquewhite;
+    text-align: center;
+}
+body{
+    background-image: url('gw.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
